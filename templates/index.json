@@ -1,0 +1,258 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image_13_6f8b8db9-5cc1-4a5a-9afd-9b867f1ba3cd.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "custom_liquid_WTzMpC": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div style = \"text-align : center;\" ><strong><h1>Our Sweeteners Collection<\/strong><\/h1><\/div>\n\n<div  style = \"text-align : center;\" ><h2>Discover our low-calorie and zero-calorie sweeteners designed to fit your healthy lifestyle<\/h2><\/div>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_j4VaRw": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_DmKqJw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_16.png",
+            "title": "<strong>Equal Granular<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_gdVz6j": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_17.png",
+            "title": "<strong>Equal Tablets<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_WPADYY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_18.png",
+            "title": "<strong>Equal Wafer<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_HNdEPg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_14.png",
+            "title": "<strong>Equal Sweets<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_DmKqJw",
+        "column_gdVz6j",
+        "column_WPADYY",
+        "column_HNdEPg"
+      ],
+      "settings": {
+        "title": "<strong>Our Sweeteners Collection<\/strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "View All",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_weaBmx": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_tqAwCD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_2609619.svg",
+            "title": "<strong>Pure and Natural<\/strong>",
+            "text": "<p>We avoid chemicals, additives, and artificial processes, using only natural ingredients.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_cwj6HD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_2609618.svg",
+            "title": "<strong>Uncompromised Flavor<\/strong>",
+            "text": "<p>Our mission is to ensure our sugar-free alternatives deliver the same great taste as sugar.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_xrHWCp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_2609617.svg",
+            "title": "<strong>Best Quality<\/strong>",
+            "text": "<p>Equal products are made from only the highest quality ingredients.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_tp9fgE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_2609617.svg",
+            "title": "Healthy Sweetness",
+            "text": "<p>Specializing in sugar-free alternatives, our products help you enjoy sweetness without the added calories.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_tqAwCD",
+        "column_cwj6HD",
+        "column_xrHWCp",
+        "column_tp9fgE"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 32
+      }
+    },
+    "image_banner_ePkDj9": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Background.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "custom_liquid_N7YBGg": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div style= \"line-height: normal;\"><strong><h1>Make the Switch to Sweeteners<\/strong><\/h1><\/div>\n\n<div  ><h2>Discover the Benefits of Choosing Sweeteners Over Suga<\/h2><\/div> <\/div>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_NUM8jf": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_xFQhxB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_33.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_FgQKRV": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_xFQhxB",
+        "column_FgQKRV"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_VFEEfa": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Background_1.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "custom_liquid_WTzMpC",
+    "multicolumn_j4VaRw",
+    "multicolumn_weaBmx",
+    "image_banner_ePkDj9",
+    "custom_liquid_N7YBGg",
+    "multicolumn_NUM8jf",
+    "image_banner_VFEEfa"
+  ]
+}

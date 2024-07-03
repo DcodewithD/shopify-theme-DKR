@@ -1,0 +1,161 @@
+{
+  "sections": {
+    "image_banner_L6VWCf": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image_13_6f8b8db9-5cc1-4a5a-9afd-9b867f1ba3cd.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "multicolumn_KmQiaJ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gFXXRF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_16.png",
+            "title": "<strong>Equal Granular<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_e8J6PM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_17.png",
+            "title": "<strong>Equal Tablets<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_KYCkH6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_18.png",
+            "title": "<strong>Equal Wafer<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3GxF9J": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_14.png",
+            "title": "<strong>Equal Sweets<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_gFXXRF",
+        "column_e8J6PM",
+        "column_KYCkH6",
+        "column_3GxF9J"
+      ],
+      "settings": {
+        "title": "<strong>Our Sweeteners Collection                       <\/strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "View all",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": false,
+        "show_collection_image": false,
+        "color_scheme": "scheme-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collage_B88LVD": {
+      "type": "collage",
+      "blocks": {
+        "image_N8dByL": {
+          "type": "image",
+          "settings": {
+          }
+        },
+        "product_V66FrQ": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
+        },
+        "collection_qMrieb": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_N8dByL",
+        "product_V66FrQ",
+        "collection_qMrieb"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner_L6VWCf",
+    "multicolumn_KmQiaJ",
+    "banner",
+    "product-grid",
+    "collage_B88LVD"
+  ]
+}
