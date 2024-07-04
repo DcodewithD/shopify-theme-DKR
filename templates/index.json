@@ -157,8 +157,7 @@
       ],
       "custom_css": [
         ".multicolumn-card__image-wrapper {width: 50%; margin: auto;}",
-        ".media media--transparent media--adapt {padding-bottom: 3rem !important ;}",
-        ".multicolumn.background-primary .multicolumn-card {background-color:none;}"
+        ".media media--transparent media--adapt {padding-bottom: 3rem !important ;}"
       ],
       "settings": {
         "title": "",
