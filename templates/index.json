@@ -156,9 +156,7 @@
         "column_tp9fgE"
       ],
       "custom_css": [
-        ".media.media--transparent.media--adapt {padding-bottom: 4rem !important;}",
-        ".multicolumn-card.content-container {background-color:#;}",
-        ".rte {line-height: 1;}"
+
       ],
       "settings": {
         "title": "",
