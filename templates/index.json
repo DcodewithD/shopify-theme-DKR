@@ -157,9 +157,10 @@
       ],
       "custom_css": [
         ".multicolumn-card__image-wrapper {width: 20%; margin: auto;}",
-        ".media media--transparent media--adapt {padding-bottom: 3rem !important ;}",
-        ".multicolumn-card.content-container {background: transparent;}",
-        ".multicolumn {background-color: rgb(222, 240, 255);}"
+        "\/* .media media--transparent media--adapt {padding-bottom: 3rem !important ;}",
+        " *\/.multicolumn-card.content-container {background: transparent;}",
+        ".multicolumn {background-color: rgb(222, 240, 255);}",
+        ".rte{font-weight:600; line-height:2rem;}"
       ],
       "settings": {
         "title": "",
