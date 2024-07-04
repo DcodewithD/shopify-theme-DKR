@@ -156,7 +156,7 @@
         "column_tp9fgE"
       ],
       "custom_css": [
-
+        ".multicolumn-card__image-wrapper {width: 50%; margin:auto;}"
       ],
       "settings": {
         "title": "",
