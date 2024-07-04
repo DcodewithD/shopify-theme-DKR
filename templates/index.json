@@ -86,7 +86,7 @@
       ],
       "custom_css": [
         "#Slide-template--23025745396026__multicolumn_j4VaRw-3Slide-template--23025745396026__multicolumn_j4VaRw-1multicolumn_j4VaRw-3 {background-color: #d2fce1;}",
-        ".multicolumn-card.content-container {background-color:#D2FCE1 ; border : 1px solid white; border-radius:2rem;}"
+        ".multicolumn-card.content-container {background-color: #d2fce1; border: 1px solid white; border-radius: 2rem;}"
       ],
       "settings": {
         "title": "<strong>Our Sweeteners Collection<\/strong>",
@@ -154,6 +154,11 @@
         "column_cwj6HD",
         "column_xrHWCp",
         "column_tp9fgE"
+      ],
+      "custom_css": [
+        ".media.media--transparent.media--adapt {padding-bottom: 4rem !important;}",
+        ".multicolumn-card.content-container {background-color:#;}",
+        ".rte {line-height: 1;}"
       ],
       "settings": {
         "title": "",
