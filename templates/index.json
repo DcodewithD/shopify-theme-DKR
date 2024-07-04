@@ -156,8 +156,9 @@
         "column_tp9fgE"
       ],
       "custom_css": [
-        ".multicolumn-card__image-wrapper {width: 50%; margin: auto;}",
-        ".media media--transparent media--adapt {padding-bottom: 3rem !important ;}"
+        ".multicolumn-card__image-wrapper {width: 20%; margin: auto;}",
+        ".media media--transparent media--adapt {padding-bottom: 3rem !important ;}",
+        " .multicolumn-card.content-container{background:transparent ;}"
       ],
       "settings": {
         "title": "",
