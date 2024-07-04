@@ -84,6 +84,9 @@
         "column_WPADYY",
         "column_HNdEPg"
       ],
+      "custom_css": [
+        ".multicolumn-card content-container {background-color:#d2fce1;}"
+      ],
       "settings": {
         "title": "<strong>Our Sweeteners Collection<\/strong>",
         "heading_size": "h1",
