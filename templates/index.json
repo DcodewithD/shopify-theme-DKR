@@ -296,9 +296,7 @@
         "button_LFEVXn"
       ],
       "custom_css": [
-        "img {object-fit: contain; padding: 1rem 4rem;}",
-        ".image-with-text.heading.h3 {font-size: bolder;}",
-        ".image-with-text__text rte body{font-size: bolder;}"
+        "img {object-fit: contain; padding: 1rem 4rem;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2024-06-07_152659-removebg-preview_1.png",
