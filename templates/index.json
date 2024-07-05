@@ -85,8 +85,8 @@
         "column_HNdEPg"
       ],
       "custom_css": [
-        "#Slide-template--23025745396026__multicolumn_j4VaRw-3Slide-template--23025745396026__multicolumn_j4VaRw-1multicolumn_j4VaRw-3 {background-color: #d2fce1;}",
-        ".multicolumn-card.content-container {background-color: #d2fce1; border: 1px solid white; border-radius: 2rem;}"
+        "\/* #Slide-template--23025745396026__multicolumn_j4VaRw-3Slide-template--23025745396026__multicolumn_j4VaRw-1multicolumn_j4VaRw-3 {background-color: #d2fce1;}",
+        " *\/.multicolumn-card.content-container {background-color: #d2fce1; border: 1px solid white; border-radius: 2rem;}"
       ],
       "settings": {
         "title": "<strong>Our Sweeteners Collection<\/strong>",
@@ -203,79 +203,6 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
-    },
-    "image_with_text_kRetjd": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_ncim4i": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Indulge in the Sweetness of India<\/strong>",
-            "heading_size": "h2"
-          }
-        },
-        "text_fPgRUc": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Enjoy Traditional Indian Sweets with Zero Calories - Guilt-Free Indulgence Awaits!<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_LFEVXn": {
-          "type": "button",
-          "settings": {
-            "button_label": "Discover the Collection",
-            "button_link": "shopify:\/\/products\/equal-wafer",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_ncim4i",
-        "text_fPgRUc",
-        "button_LFEVXn"
-      ],
-      "custom_css": [
-        "img {object-fit: contain; padding: 1rem 4rem;}",
-        "p {font-size: 1.1rem; font-weight: bolder;}",
-        "strong {font-size: 2.4rem; font-weight: bold;}",
-        ".button {background-color: #006fcf; border-radius: 3rem;}",
-        ".button:after {box-shadow: none;}"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2024-06-07_152659-removebg-preview_1.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "scheme-94a58eb2-881c-4328-9bbc-33617460cc4d",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 44,
-        "padding_bottom": 36
-      }
-    },
-    "image_banner_JnBEcF": {
-      "type": "image-banner",
-      "custom_css": [
-        ".banner__media.media.scroll-trigger.animate--fade-in {object-fit: contain;}"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Frame_2609622.png",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
@@ -284,8 +211,6 @@
     "multicolumn_j4VaRw",
     "multicolumn_weaBmx",
     "image_banner_ePkDj9",
-    "custom_liquid_N7YBGg",
-    "image_with_text_kRetjd",
-    "image_banner_JnBEcF"
+    "custom_liquid_N7YBGg"
   ]
 }
