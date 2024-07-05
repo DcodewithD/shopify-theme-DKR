@@ -296,7 +296,10 @@
         "button_LFEVXn"
       ],
       "custom_css": [
-        "img {object-fit: contain; padding: 1rem 4rem;}"
+        "img {object-fit: contain; padding: 1rem 4rem;}",
+        "p {font-size: 1.1rem; font-weight: bolder;}",
+        "strong {font-size: 2.5rem; font-weight: 1000;}",
+        ".button {background-color: #006FCF; border-radius : 2rem; }"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2024-06-07_152659-removebg-preview_1.png",
