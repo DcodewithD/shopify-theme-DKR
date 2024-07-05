@@ -296,7 +296,7 @@
         "button_LFEVXn"
       ],
       "custom_css": [
-        "img {object-fit: contain !important;}"
+        "img {object-fit: contain;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2024-06-07_152659-removebg-preview_1.png",
