@@ -70,6 +70,15 @@
             "text": "This is our best selling product",
             "text_style": "uppercase"
           }
+        },
+        "collapsible_tab_igKCqp": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "INGREDIENTS",
+            "icon": "serving_dish",
+            "content": "<p>{{ product.metafields.custom.ingredients | metafield_tag }}<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -82,7 +91,8 @@
         "description",
         "share",
         "rating_fX3AGr",
-        "text_RGj4e9"
+        "text_RGj4e9",
+        "collapsible_tab_igKCqp"
       ],
       "settings": {
         "enable_sticky_info": true,
