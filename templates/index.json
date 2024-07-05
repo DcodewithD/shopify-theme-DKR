@@ -248,7 +248,8 @@
         "strong {font-size: 2.4rem; font-weight: bold;}",
         ".button {background-color: #006fcf; border-radius: 3rem;}",
         ".button:after {box-shadow: none;}",
-        ".image-with-text__text-item.grid__item > div {border: none;}"
+        ".image-with-text__text-item.grid__item > div {border: none;}",
+        ".section-template--23025745396026__image_with_text_6gNMng-padding.gradient.color-scheme-1 > div {padding: 0;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2024-06-07_152659-removebg-preview_1.png",
