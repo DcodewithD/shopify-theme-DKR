@@ -197,6 +197,13 @@
     },
     "custom_liquid_N7YBGg": {
       "type": "custom-liquid",
+      "custom_css": [
+        "img {object-fit: contain; padding: 1rem 4rem;}",
+        "p {font-size: 1.1rem; font-weight: bolder;}",
+        "strong {font-size: 2.4rem; font-weight: bold;}",
+        ".button {background-color: #006fcf; border-radius: 3rem;}",
+        ".button:after {box-shadow: none;}"
+      ],
       "settings": {
         "custom_liquid": "<div style= \"line-height: normal;\"><strong><h1>Make the Switch to Sweeteners<\/strong><\/h1><\/div>\n\n<div  ><h2>Discover the Benefits of Choosing Sweeteners Over Suga<\/h2><\/div> <\/div>",
         "color_scheme": "",
@@ -210,21 +217,21 @@
         "heading_bTLiiE": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
+            "heading": "Indulge in the Sweetness of India",
+            "heading_size": "h2"
           }
         },
         "text_P939Gb": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Enjoy Traditional Indian Sweets with Zero Calories - Guilt-Free Indulgence Awaits!<\/p>",
             "text_style": "body"
           }
         },
         "button_8QapKg": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Discover the Collection",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -235,7 +242,15 @@
         "text_P939Gb",
         "button_8QapKg"
       ],
+      "custom_css": [
+        "img {object-fit: contain; padding: 1rem 4rem; }",
+        " p {font-size: 1.1rem; font-weight: bolder; }",
+        " strong {font-size: 2.4rem; font-weight: bold; }",
+        " .button {background-color:#006fcf; border-radius:3rem; }",
+        " .button:after{box-shadow:none; }"
+      ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2024-06-07_152659-removebg-preview_1.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -243,7 +258,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "section_color_scheme": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-94a58eb2-881c-4328-9bbc-33617460cc4d",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
