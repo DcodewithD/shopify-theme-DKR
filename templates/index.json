@@ -270,22 +270,22 @@
         "heading_ncim4i": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
+            "heading": "<strong>Indulge in the Sweetness of India<\/strong>",
+            "heading_size": "h2"
           }
         },
         "text_fPgRUc": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Enjoy Traditional Indian Sweets with Zero Calories - Guilt-Free Indulgence Awaits!<\/p>",
             "text_style": "body"
           }
         },
         "button_LFEVXn": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Discover the Collection",
+            "button_link": "shopify:\/\/products\/equal-wafer",
             "button_style_secondary": false
           }
         }
@@ -304,7 +304,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "section_color_scheme": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-94a58eb2-881c-4328-9bbc-33617460cc4d",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
