@@ -254,12 +254,15 @@
         "color_scheme": "scheme-94a58eb2-881c-4328-9bbc-33617460cc4d",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
+        "padding_top": 44,
         "padding_bottom": 36
       }
     },
     "image_banner_JnBEcF": {
       "type": "image-banner",
+      "custom_css": [
+        ".banner__media.media.scroll-trigger.animate--fade-in {object-fit: contain;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Frame_2609622.png",
         "image_overlay_opacity": 0,
