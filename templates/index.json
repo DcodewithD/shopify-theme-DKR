@@ -232,7 +232,7 @@
           "type": "button",
           "settings": {
             "button_label": "Discover the Collection",
-            "button_link": "",
+            "button_link": "shopify:\/\/collections\/boys",
             "button_style_secondary": false
           }
         }
@@ -245,10 +245,10 @@
       "custom_css": [
         "img {object-fit: contain; padding: 1rem 4rem;}",
         "p {font-size: 1.1rem; font-weight: bolder;}",
-        "strong{font-size: 2.4rem; font-weight: bold;}",
+        "strong {font-size: 2.4rem; font-weight: bold;}",
         ".button {background-color: #006fcf; border-radius: 3rem;}",
         ".button:after {box-shadow: none;}",
-        ".image-with-text__text-item.grid__item > div{border:none;}"
+        ".image-with-text__text-item.grid__item > div {border: none;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2024-06-07_152659-removebg-preview_1.png",
