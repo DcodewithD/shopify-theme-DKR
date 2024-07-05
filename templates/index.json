@@ -84,6 +84,11 @@
         "column_WPADYY",
         "column_HNdEPg"
       ],
+      "custom_css": [
+        "\/* #Slide-template--23025745396026__multicolumn_j4VaRw-3Slide-template--23025745396026__multicolumn_j4VaRw-1multicolumn_j4VaRw-3 {background-color: #d2fce1;}",
+        " *\/.multicolumn-card.content-container {background-color: #d2fce1; border: 1px solid white; border-radius: 2rem;}",
+        ".button.button--primary{background-color: #ffcc00; color:black; }"
+      ],
       "settings": {
         "title": "<strong>Our Sweeteners Collection<\/strong>",
         "heading_size": "h1",
@@ -93,7 +98,7 @@
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "View All",
-        "button_link": "",
+        "button_link": "shopify:\/\/blogs\/news",
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -151,6 +156,13 @@
         "column_xrHWCp",
         "column_tp9fgE"
       ],
+      "custom_css": [
+        ".multicolumn-card__image-wrapper {width: 20%; margin: auto;}",
+        " \/* .media media--transparent media--adapt {padding-bottom: 3rem !important ;}",
+        " *\/.multicolumn-card.content-container {background: transparent; border: none;}",
+        ".multicolumn {background-color: rgb(222, 240, 255);}",
+        ".rte {font-weight: 600; line-height: 2rem; font-size: 1.2rem;}"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -186,6 +198,13 @@
     },
     "custom_liquid_N7YBGg": {
       "type": "custom-liquid",
+      "custom_css": [
+        "img {object-fit: contain; padding: 1rem 4rem;}",
+        "p {font-size: 1.1rem; font-weight: bolder;}",
+        "strong {font-size: 2.4rem; font-weight: bold;}",
+        ".button {background-color: #006fcf; border-radius: 3rem;}",
+        ".button:after {box-shadow: none;}"
+      ],
       "settings": {
         "custom_liquid": "<div style= \"line-height: normal;\"><strong><h1>Make the Switch to Sweeteners<\/strong><\/h1><\/div>\n\n<div  ><h2>Discover the Benefits of Choosing Sweeteners Over Suga<\/h2><\/div> <\/div>",
         "color_scheme": "",
@@ -193,64 +212,60 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_NUM8jf": {
-      "type": "multicolumn",
+    "image_with_text_6gNMng": {
+      "type": "image-with-text",
       "blocks": {
-        "column_xFQhxB": {
-          "type": "column",
+        "heading_bTLiiE": {
+          "type": "heading",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Frame_33.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "heading": "Indulge in the Sweetness of India",
+            "heading_size": "h2"
           }
         },
-        "column_FgQKRV": {
-          "type": "column",
+        "text_P939Gb": {
+          "type": "text",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p>Enjoy Traditional Indian Sweets with Zero Calories - Guilt-Free Indulgence Awaits!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_8QapKg": {
+          "type": "button",
+          "settings": {
+            "button_label": "Discover the Collection",
+            "button_link": "shopify:\/\/collections\/boys",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "column_xFQhxB",
-        "column_FgQKRV"
+        "heading_bTLiiE",
+        "text_P939Gb",
+        "button_8QapKg"
+      ],
+      "custom_css": [
+        "img {object-fit: contain; padding: 1rem 4rem;}",
+        "p {font-size: 1.1rem; font-weight: bolder;}",
+        "\/* strong{font-size: 2.4rem; font-weight: bold;}",
+        " *\/.button {background-color: #006fcf; border-radius: 3rem;}",
+        ".button:after {box-shadow: none;}",
+        ".image-with-text__text-item.grid__item > div {border: none;}",
+        ".section-template--23025745396026__image_with_text_6gNMng-padding.gradient.color-scheme-1 > div {padding: 0;}"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "image_banner_VFEEfa": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Background_1.png",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
+        "image": "shopify:\/\/shop_images\/Screenshot_2024-06-07_152659-removebg-preview_1.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-94a58eb2-881c-4328-9bbc-33617460cc4d",
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -261,7 +276,6 @@
     "multicolumn_weaBmx",
     "image_banner_ePkDj9",
     "custom_liquid_N7YBGg",
-    "multicolumn_NUM8jf",
-    "image_banner_VFEEfa"
+    "image_with_text_6gNMng"
   ]
 }
