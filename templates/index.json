@@ -86,7 +86,8 @@
       ],
       "custom_css": [
         "\/* #Slide-template--23025745396026__multicolumn_j4VaRw-3Slide-template--23025745396026__multicolumn_j4VaRw-1multicolumn_j4VaRw-3 {background-color: #d2fce1;}",
-        " *\/.multicolumn-card.content-container {background-color: #d2fce1; border: 1px solid white; border-radius: 2rem;}"
+        " *\/.multicolumn-card.content-container {background-color: #d2fce1; border: 1px solid white; border-radius: 2rem;}",
+        ".button.button--primary{background-color: #ffcc00; color:black; }"
       ],
       "settings": {
         "title": "<strong>Our Sweeteners Collection<\/strong>",
@@ -97,7 +98,7 @@
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "View All",
-        "button_link": "",
+        "button_link": "shopify:\/\/blogs\/news",
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -245,8 +246,8 @@
       "custom_css": [
         "img {object-fit: contain; padding: 1rem 4rem;}",
         "p {font-size: 1.1rem; font-weight: bolder;}",
-        "strong {font-size: 2.4rem; font-weight: bold;}",
-        ".button {background-color: #006fcf; border-radius: 3rem;}",
+        "\/* strong{font-size: 2.4rem; font-weight: bold;}",
+        " *\/.button {background-color: #006fcf; border-radius: 3rem;}",
         ".button:after {box-shadow: none;}",
         ".image-with-text__text-item.grid__item > div {border: none;}",
         ".section-template--23025745396026__image_with_text_6gNMng-padding.gradient.color-scheme-1 > div {padding: 0;}"
