@@ -127,7 +127,7 @@
         </label>
       </div>
       <div class="contact__button">
-        <button  type="submit" class="button">
+        <button id = "submit_data" type="submit" class="button">
           {{ 'templates.contact.form.send' | t }}
         </button>
       </div>
@@ -138,8 +138,7 @@
 <script>
   var $form = $('form#contactform'),
     url = 'https://script.google.com/macros/s/AKfycbwDuewwyjoJzN_5WRTWhZsGjcq3ZhSVUzmNxU2aWgBmKfneOOMmHVLtpRPWz2JeH1tRkw/exec'
-  {{'jquery.serialize-object.min' | asset_url | script_tag }}
-$('#contact_form').on('submit', function(e) { 
+$('#submit_data').on('submit', function(e) { 
   // updated this so it only submit data when form is submitted successfully. Previously we were triggering this even when user click on submit button.
 //   e.preventDefault(); // delete this is you want to send data to admin email address.
   var jqxhr = $.ajax({
